@@ -11,5 +11,9 @@ byte[] crc = lz.CalculateCRC16(<byte array of data buffer>);
 
 ```
 
+## Todo
+
+lzah Compression
+
 ## Credit
 https://github.com/mistydemeo/quickbms/blob/master/compression/de_lzah.c
